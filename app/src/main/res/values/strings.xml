@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Smileygirl</string>
+    <string name="names">Names</string>
+    <string name="email">email</string>
+    <string name="phone_no">phone No</string>
+    <string name="password">Password</string>
+    <string name="confirm_pass">confirm pass</string>
+    <string name="username">strings</string>
+    <string name="Name">Name</string>
+    <string name="login" />
+    <string name="userid" />
+    <string name="forgotpass" />
+    <string name="resetpass" />
+    <string name="new_user" />
+    <string name="register" />
+    <string name="reset_password">reset password</string>
+    <string name="signup">SignUp</string>
+    <string name="fullnames">Names</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="confirmpassword">Create Password</string>
+    <string name="registernew">Register New</string>
+    <string name="have_account">Want to create account?</string>
+    <string name="registernow">register now</string>
+    <string name="make_a_girl_smile">Make a Girl Smile</string>
+    <string name="my_information">My Information</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="logout">Logout</string>
+    <string name="my_orders">My Orders</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_history">history</string>
+    <string name="menu_share">share</string>
+    <string name="menu_aboutus">about us</string>
+    <string name="menu_contactus">contact us</string>
+    <string name="menu_help">help</string>
+    <string name="contact_us">contact us</string>
+    <string name="about_us">about us</string>
+    <string name="help">help</string>
+    <string name="history">history</string>
+    <string name="home">home</string>
+    <string name="share">share</string>
+    <string name="Logout">logout</string>
+    <string name="email_sent">email sent</string>
+    <string name="email_instruction">email.instruction</string>
+    <string name="go_back_login">login again</string>
+    <string name="enter_email">enter email</string>
+    <string name="send_reset_link">link sent</string>
+    <string name="go_back">go to login</string>
+    <string name="todo">TODO</string>
+    <string name="order">Make an Order we DEliver</string>
+    <string name="choose_an_item_we_will_deliver">Choose an Item WE will deliver</string>
+    <string name="spinner_title">spinner</string>
+    <string name="history_text">Welcomw to the donatios App for the Charitable Organizations The purpose of the official Donation App is to make online donations to a charity of thier choice.Designed for simplicity,making a donation is as easy making paument using a credi card authorized by The lady\'s Heart. In the past,unless onewhere a particular charity was located to physicall visit it,making a donationcould sometimes be a difficult process. This official Donation App is attempting to gain access to the largest groups of communities possible via the internet, in an effort to promote a culture of volunteerism; a message that humanity must believe is imprtant.</string>
+    <string name="title_activity_location">Map</string>
+
+</resources>

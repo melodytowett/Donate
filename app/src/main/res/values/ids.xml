@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="text_history" type="id" />
+    <item name="text_home" type="id" />
+    <item name="text_about_us" type="id" />
+    <item name="mobile_navigation" type="id"/>
+
+
+</resources>

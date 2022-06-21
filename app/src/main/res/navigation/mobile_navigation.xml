@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/home">
+
+    <fragment
+        android:id="@+id/home"
+        android:name="com.example.smileygirl.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/home_fragment" />
+    <fragment
+        android:id="@+id/history"
+        android:name="com.example.smileygirl.ui.history.HistoryFragment"
+        android:label="@string/menu_history"
+        tools:layout="@layout/history_fragment" />
+    <fragment
+        android:id="@+id/share"
+        android:name="com.example.smileygirl.ui.share.ShareFragment"
+        android:label="@string/menu_share"
+        tools:layout="@layout/share_fragment" />
+    <fragment
+        android:id="@+id/aboutUs"
+        android:name="com.example.smileygirl.ui.about.AboutFragment"
+        android:label="@string/menu_aboutus"
+        tools:layout="@layout/about_fragment" />
+    <fragment
+        android:id="@+id/contactUs"
+        android:name="com.example.smileygirl.ui.contact.ContactFragment"
+        android:label="@string/menu_contactus"
+        tools:layout="@layout/contact_fragment" />
+    <fragment
+        android:id="@+id/help"
+        android:name="com.example.smileygirl.ui.help.HelpFragment"
+        android:label="@string/menu_help"
+        tools:layout="@layout/about_fragment" />
+
+
+</navigation>
